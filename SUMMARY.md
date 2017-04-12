@@ -26,6 +26,8 @@
 
 	* [Omni](OMNI.md)
 	* [Gear 360](GEAR360.md)
+	* [Structure Sensor](STRUCTURESENSOR.md)
+
 
 * [Ghost Lab / Mobile Device Suite](GHOSTLAB.md)
 
