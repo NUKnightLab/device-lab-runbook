@@ -4,8 +4,8 @@
 
 * Desktop VR
 
-	* [Vive](VIVE.md)
-	* [Oculus](OCULUS.md)
+	* [HTC Vive](VIVE.md)
+	* [Oculus Rift](OCULUS.md)
 
 * Mobile VR
 
@@ -27,7 +27,6 @@
 	* [Omni](OMNI.md)
 	* [Gear 360](GEAR360.md)
 	* [Structure Sensor](STRUCTURESENSOR.md)
-
 
 * [Ghost Lab / Mobile Device Suite](GHOSTLAB.md)
 
