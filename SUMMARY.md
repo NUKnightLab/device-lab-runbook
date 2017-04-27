@@ -4,37 +4,32 @@
 
 * Desktop VR
 
-	* [HTC Vive](VIVE.md)
-	* [Oculus Rift](OCULUS.md)
+	* [HTC Vive](vive.md)
+	* [Oculus Rift](oculus.md)
 
 * Mobile VR
 
-	* [Daydream / Cardboard](DAYDREAM.md)
-	* [Gear VR](GEARVR.md)
+	* [Daydream / Cardboard](daydream.md)
+	* [Gear VR](gear-vr.md)
 
 * AR
 
-	* [HoloLens](HOLOLENS.md)
-	* [Tango](TANGO.md)
+	* [HoloLens](hololens.md)
+	* [Tango](tango.md)
 
 * Voice UI
 
-	* [Google Home](GOOGLEHOME.md)
-	* [Amazon Echo](ECHO.md)
+	* [Google Home](google-home.md)
+	* [Amazon Echo](echo.md)
 
 * 360 Cameras
 
-	* [Omni](OMNI.md)
-	* [Gear 360](GEAR360.md)
-	* [Structure Sensor](STRUCTURESENSOR.md)
+	* [Omni](omni.md)
+	* [Gear 360](gear-360.md)
+	* [Structure Sensor](structure-sensor.md)
 
-* [Ghost Lab / Mobile Device Suite](GHOSTLAB.md)
+* [Ghost Lab / Mobile Device Suite](ghostlab.md)
 
-* [3D Printer](3DPRINTER.md)
+* [3D Printer](3d-printer.md)
 
-* [Podcasting](PODCAST.md)
-
-
-
-
-
+* [Podcasting](podcast.md)
