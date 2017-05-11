@@ -28,6 +28,9 @@
 	* [Gear 360](gear-360.md)
 	* [Structure Sensor](structure-sensor.md)
 
+* 360 Audio Recording
+	* [Ambisonic Mic](ambisonic-mic.md)
+
 * [Ghost Lab / Mobile Device Suite](ghostlab.md)
 
 * [3D Printer](3d-printer.md)
