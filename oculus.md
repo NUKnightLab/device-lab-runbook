@@ -14,6 +14,8 @@
 
 6. When you're done, hang the headset back up and quit the app.
 
+7. If you are having trouble with the Oculus, follow [this link](https://product-guides.oculus.com/en-us/documentation/rift/latest/concepts/rug-4-ts-rift-troubleshooting/) to the troubleshooting page.
+
 ### Our favorite apps
 
 - **Dear Angelica** // a beautiful 5-minute-long story of a girl and her mother created using Quill

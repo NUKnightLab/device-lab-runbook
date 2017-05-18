@@ -1,5 +1,6 @@
 # Amazon Echo
 
+<<<<<<< HEAD
 To use the Echo, just say “Alexa…” followed by the command. In order to use the Taps, you must press the button with the microphone. The Echo and the Taps are all loaded with the same content. These devices are supposed to be smart enough to figure out that the Alexa-enabled device that’s closest to you is the one you mean, but you might have to move around a little.
 
 #### Flash Update
@@ -15,3 +16,8 @@ Say “Alexa open The Wayne Investigation” or “Alexa open The Magic Door”.
 To try a new skill ask a Fellow to log you into the Device Lab’s Amazon account and go to [alexa.amazon.com](http://alexa.amazon.com/spa/index.html). You can search skills in the “Skills” section on the menu on the left side. Turning on a skill through this account will set up the skill on the Echo and both Taps.
 
 
+=======
+Coming soon!
+
+In the meantime, you can find a manual and list of useful commands for the Echo from Amazon here: [Echo](https://s3-us-west-2.amazonaws.com/customerdocumentation/Amazon_Echo_Quick_Start_Guide.pdf)
+>>>>>>> master

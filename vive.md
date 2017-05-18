@@ -12,6 +12,8 @@
 
 5. When you're done, make sure you quit the app, hang the headset and headphones up, and place the hand controllers back into the chargers.
 
+6. If you are having trouble with the Vive, try unplugging it from the Link Box, power cycle it, and follow [this link](https://support.steampowered.com/kb_article.php?ref=8566-SDZC-9326#steamvr-ts) to the troubleshooting page
+
 ### Our favorite apps
 
 - **TiltBrush** // make 3D art using the hand controllers as your paintbrush
