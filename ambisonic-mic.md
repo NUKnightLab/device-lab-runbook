@@ -23,6 +23,8 @@ The TetraMic has several cords and steps to set up that seem scary at first, but
 6. **Connect receiver to recorder.** Match the colors on the four cables of the receiver to the color labels on the four ports in the recorder
 ![Local Image](./images/6-final.png)
 
+
+
 ### How to record with the mic
 
 Congratulations, you have set up the TetraMic! Now you want to record. This process can also seem daunting, but the below guide should make it very simple. It is important to note that while the TetraMic does record in 360 degrees, it still has a 'front' which is important for editing purposes. This front is indicated by the etched 'Core' logo on the bronze handle of the microphone.
@@ -48,3 +50,13 @@ Congratulations, you have set up the TetraMic! Now you want to record. This proc
 
 7. **Stop recording.** Press the button labeled '1' to stop recording.
 ![Local Image](./images/7-stop-recording.png)
+
+
+
+### How to edit your recordings
+
+Again, congratulations! You have now recorded with the TetraMic and want to edit the sound. This process can be tricky, but seems harder than it actually is. For all of the below processes, be sure you are using the main PC in the Device Lab.
+
+1. **Getting files off the recorder.** Connect the recorder to the computer using...
+
+COMING SOON!
